@@ -16,13 +16,10 @@
 ### Socials:
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.nyvil.co.uk/res/simple-icons/twitter.svg" />][twitter]
 
-<br />
-
-
 <details>
   <summary>:fire: GitHub Stats</summary>
 
-  <img align="left" alt="Nyvil's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Nyvil&show_icons=true&hide_border=true" />
+  [![Nyvil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyvil)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
