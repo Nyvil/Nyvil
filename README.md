@@ -5,14 +5,6 @@
 ### 🎉 Project I currently work on
 - 🚀 [Spacehut][spacehut]
 
-### Tools and Languages I use
-
-[<img align="left" alt="IntelliJ Idea Ultimate" width="26px" src="https://cdn.nyvil.co.uk/res/simple-icons/intellij.png" />][intellij]
-[<img align="left" alt="Java" width="26px" src="https://cdn.nyvil.co.uk/res/simple-icons/javalogo.svg" />][java]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.nyvil.co.uk/res/simple-icons/mongodb.png" />][mongo]
-[<img align="left" alt="GitHub" width="26px" src="https://cdn.nyvil.co.uk/res/simple-icons/github.png" />][github]
-
-
 ### Socials:
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.nyvil.co.uk/res/simple-icons/twitter.svg" />][twitter]
 
