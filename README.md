@@ -6,12 +6,14 @@
 - 🚀 [Spacehut][spacehut]
 
 ### Socials:
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.nyvil.co.uk/res/simple-icons/twitter.svg" />][twitter]
+- [<img align="left" alt="Twitter" width="22px" src="https://cdn.nyvil.co.uk/res/simple-icons/twitter.svg" />][twitter]
 
+
+### GitHub Stats
 <details>
   <summary>:fire: GitHub Stats</summary>
 
-  [![Nyvil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyvil)](https://github.com/anuraghazra/github-readme-stats)
+  [![Nyvil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyvil&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
