@@ -14,8 +14,6 @@
   <summary>:fire: GitHub Stats</summary>
 
   [![Nyvil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyvil&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  [![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyvil)](https://github.com/anuraghazra/github-readme-stats)
-
 
 </details>
 
