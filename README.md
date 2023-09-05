@@ -25,7 +25,7 @@ _____
 
 [![Nyvil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyvil&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: https://nyvil.co.uk
+[website]: https://nyvil.dev
 [twitter]: https://twitter.com/_Nyvil
 [spacehut]: https://spacehutapp.com
 [intellij]: https://jetbrains.com
