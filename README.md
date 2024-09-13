@@ -1,32 +1,29 @@
-### Hiya! I'm [Nyvil][website] :wave:
-_____
+### Hiya!
 
-I'm currently in my senior year of highschool, and Spring 2024 I'm starting university, majoring in applied computer science.
-I've started coding 6 years ago, with Java being my main language and I've picked up Kotlin around a year and a half ago now.
-_____
+I am **Nyvil**. I'm currently a :sparkles: university student :sparkles: and freelance Software Engineer, studying applied computer science.
 
-Socials:
-- [Twitter!][twitter] 🐦
-- [Click here][email] if you wish to contact me, or alternatively via Twitter.
+- 💻 I'm currently working on a project of [The Yard Podcast](https://www.youtube.com/@TheYardPodcast) as Infrastructure Engineer 
+- ☕ I specialise in Java & Kotlin 
+- ⌨️ I started coding in August 2017, at the age of 13 
 
-_____
+# Connect with me
+<a href="mailto:alexandros@nyvil.xyz"><img align="left" src="https://raw.githubusercontent.com/nyvil/nyvil/main/mail.png" alt="Nyvil | Mail" width="35px"/></a>
+<a href="https://x.com/_Nyvil"><img align="left" src="https://raw.githubusercontent.com/nyvil/nyvil/main/twitter.png" alt="Nyvil | Twitter" width="35px"/></a>
+</br>
+</br>
 
-Languages, databases and tools I use:
-- [Java][java] ☕
-- [Kotlin][kotlin] 🔮
-- [MongoDB][mongo] 🥭
-- [IntelliJ Idea][intellij] ✍️
+# Technical Skills
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
+</br>
+</br>
 
-_____
+## Credits
+<a href="https://www.flaticon.com/free-icons/twitter" title="twitter icons">Twitter icons created by Ruslan Babkin - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/email" title="email icons">Email icons created by Fathema Khanom - Flaticon</a>
 
-
-[![Nyvil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyvil&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[website]: https://nyvil.dev
-[twitter]: https://twitter.com/_Nyvil
-[intellij]: https://jetbrains.com
-[java]: https://java.com
-[mongo]: https://mongodb.com
-[github]: https://github.com
-[kotlin]: https://kotlinlang.org
-[email]: mailto:alexandros@nyvil.xyz
