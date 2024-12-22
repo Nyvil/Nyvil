@@ -2,7 +2,6 @@
 
 I am **Nyvil**. I'm currently a :sparkles: university student :sparkles: and freelance Software Engineer, studying applied computer science.
 
-- 💻 I'm currently working on a project of [The Yard Podcast](https://www.youtube.com/@TheYardPodcast) as Infrastructure Engineer 
 - ☕ I specialise in Java & Kotlin 
 - ⌨️ I started coding in August 2017, at the age of 13 
 
